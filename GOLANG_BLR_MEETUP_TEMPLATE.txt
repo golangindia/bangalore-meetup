@@ -1,0 +1,73 @@
+LOCATION:
+We are looking for a host.
+If you'd like to host, please get in touch.
+
+JOIN US REMOTELY: (via Zoom)
+{{ Zoom URL will be updated here }}
+
+
+===[ Agenda ]===================================================
+
+
+10:00 to 11:00 :: {{ Talk 1 Title }} by {{ Presenter }}
+11:00 to 12:00 :: {{ Talk 2 Title }} by {{ Presenter }}
+12:00 to 12:30 :: ---------- Break ----------
+12:30 to 13:30 :: {{ Talk 3 Title }} by {{ Presenter }}
+
+
+------------------------------ Talk #1 ::
+{{ Talk 1 Title }}
+By: {{ Presenter }} {{ email/url }}
+{{ Description }}
+
+------------------------------ Talk #2 ::
+{{ Talk 2 Title }}
+By: {{ Presenter }} {{ email/url }}
+{{ Description }}
+
+------------------------------ Talk #3 ::
+{{ Talk 3 Title }}
+By: {{ Presenter }} {{ email/url }}
+{{ Description }}
+
+
+===[ Notes ]====================================================
+
+
+[1] RSVP opens 7 days before event date.
+[2] You can attend even if you are on `waitlist`. Everyone's entry
+    will be on first-come-first-serve basis till the venue is full.
+[3] If you are unable to attend, or unsure, please UNRSVP to allow
+    others to participate.
+[4] Please plan on arriving early to ensure sufficient time for
+    registration/entry at venue. Your cooperation will help us
+    start on time.
+[5] This event is free of cost.
+[6] If you'd like to propose a talk, please do so by commenting
+    on this event page.
+
+
+===[ Contact ]==================================================
+
+
+{{ OrganiserName }}
+Email: {{ OrganiserEmail }}
+Slack: {{ SlackHandle }}
+
+
+===[ Follow Us ]================================================
+
+
+Follow us on `#bangalore` Gophers Slack channel.
+https://gophers.slack.com/messages/bangalore/details/
+
+To receive a slack invite:
+https://invite.slack.golangbridge.org
+
+
+Please get in touch with the organisers above if you'd like to
+volunteer at a Golang Bangalore meetup.
+
+We are always looking for hosts who are keen on hosting Golang
+meetups in Bangalore. If you'd like to host a future meetup at
+your company, please get in touch with us.
