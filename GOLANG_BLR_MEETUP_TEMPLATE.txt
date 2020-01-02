@@ -2,9 +2,6 @@ LOCATION:
 We are looking for a host.
 If you'd like to host, please get in touch.
 
-JOIN US REMOTELY: (via Zoom)
-{{ Zoom URL will be updated here }}
-
 
 ===[ Agenda ]===================================================
 
