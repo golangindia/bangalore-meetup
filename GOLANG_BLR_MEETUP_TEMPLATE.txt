@@ -1,7 +1,10 @@
-LOCATION:
-We are looking for a host.
+CFP is open. If you'd like to propose a talk, please do so by commenting
+on this event page.
+
+LOCATION: We are looking for a host.
 If you'd like to host, please get in touch.
 
+DATE: {{DATE}}
 
 ===[ Agenda ]===================================================
 
