@@ -30,19 +30,16 @@ By: {{ Presenter }} {{ email/url }}
 
 ===[ Notes ]====================================================
 
-
-[1] RSVP opens 7 days before event date.
-[2] You can attend even if you are on `waitlist`. Everyone's entry
-    will be on first-come-first-serve basis till the venue is full.
+[1] This event is free of cost.
+[2] You can attend even if you are on waitlist. Everyone's entry
+will be on a first-come-first-serve basis until the venue is full.
 [3] If you are unable to attend, or unsure, please UNRSVP to allow
-    others to participate.
+others to participate.
 [4] Please plan on arriving early to ensure sufficient time for
-    registration/entry at venue. Your cooperation will help us
-    start on time.
-[5] This event is free of cost.
-[6] If you'd like to propose a talk, please do so by commenting
-    on this event page.
-
+registration/entry at the venue. Your cooperation will help us
+start on time.
+[5] If you'd like to propose a talk, please do so by commenting
+on this event page.
 
 ===[ Contact ]==================================================
 
