@@ -71,3 +71,6 @@ volunteer at a Golang Bangalore meetup.
 We are always looking for hosts who are keen on hosting Golang
 meetups in Bangalore. If you'd like to host a future meetup at
 your company, please get in touch with us.
+
+• Important to know
+Golang Bangalore officially adopts the Go Code of Conduct (https://golang.org/conduct). Harassment, bullying, and discrimination are unacceptable here and if you witness or experience those or other harmful behaviors, please let the organizers know.
